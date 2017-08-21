@@ -1,7 +1,16 @@
 img {
     width: 200px;
+    border-style: inset;
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    color: white;
+    font-family: "arial";
+   
+    background-position: center;
+}
+html {
+    background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-199655.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
