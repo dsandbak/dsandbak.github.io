@@ -10,7 +10,8 @@ body {
     background-position: center;
 }
 html {
-    background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-199655.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-199655.png")no-repeat center center fixed;
+    -webkit-background-size: cover;
+  background-size: cover;
 }
+   
